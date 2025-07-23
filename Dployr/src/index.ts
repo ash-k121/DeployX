@@ -1,12 +1,3 @@
-//access key id
-// 46dd8fdc70f8748dd0a2cf772d1c2632
-
-//secret access key
-// 47f6b8bd3f8c7db4a6a51924b51294dcec1ae3ec54f0b8084d3e535e82461551
-
-
-//url
-// https://435ed2140535b09ada1284d216c793e4.r2.cloudflarestorage.com
 
 import express from 'express';//helps to create http server
 import cors from "cors";
